@@ -1,5 +1,5 @@
 <div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Hello+there!+%F0%9F%91%8B;I+am+Derek+Gee.+😀" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+there!+%F0%9F%91%8B;I+am+Derek+Gee.+😀" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center">About Me ℹ️</h2>
@@ -17,8 +17,7 @@
 
 <h2 align="center">Technologies & Tools 🛠️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,python,javascript,java,cpp,mysql" />
 </div>
 <br/>
 
