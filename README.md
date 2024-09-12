@@ -7,10 +7,6 @@
   
   🏫 Currently studying Computer Science at Simon Fraser University
   
-  🌱 Enthusiastic about technology and innovation
-  
-  🎨 Creative thinker with a passion for design
-  
   🚀 Always striving for continuous learning and self-improvement
 </div>
 <br/>
