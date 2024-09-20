@@ -4,10 +4,7 @@
 
 <h2 align="center">About Me ℹ️</h2>
 <div align="center"> 
-  
-  🏫 Currently studying Computer Science at Simon Fraser University
-  
-  🚀 Always striving for continuous learning and self-improvement
+  🏫 Studying Computer Science at Simon Fraser University
 </div>
 <br/>
 
