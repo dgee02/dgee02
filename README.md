@@ -2,19 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Derek+Gee.+😀" alt="Typing SVG" /></a>
 </div>
 
-<h2 align="center">About Me ℹ️</h2>
-<div align="center"> 
-  🏫 Studying Computer Science at Simon Fraser University
-</div>
-<br/>
+<br>
 
-<h2 align="center">Technologies & Tools 🛠️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,python,javascript,java,cpp,mysql" />
-</div>
-<br/>
-
-<h2 align="center">Let's Connect 🌐</h2>
 <div align="center"> 
   <a href="https://linkedin.com/in/derek-gee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
